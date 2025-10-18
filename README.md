@@ -1,6 +1,5 @@
 <h1 align="left">JH's Github&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://hits.seeyoufarm.com"></a></h1>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=smith6423&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=prussian&hide_border=true&order=2&cache_seconds=1800" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=smith6423&theme=nord&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=smith6423&radius=0&theme=react&area=true&order=5&bg_color=172F45" height="300" alt="activity-graph graph"  />
 </div>
 
